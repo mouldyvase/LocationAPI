@@ -1,7 +1,7 @@
 
 # Sports Location Finder API
 
-Welcome to the Sports Location Finder API! Our service provides access to a comprehensive list of sports locations based on user interests and various other parameters. Whether you're looking for cricket pitches in India or soccer fields in Brazil, our API is designed to offer detailed information on sports grounds across the globe.
+Welcome to the Sports Location Finder API!This API service provides access to a comprehensive list of sports locations based on user interests and various other parameters. Whether you're looking for cricket pitches in India or soccer fields in Brazil, the API is designed to offer detailed information on sports grounds across the globe.
 
 ## Features
 
@@ -31,8 +31,8 @@ Retrieves a list of available sports locations. You can apply filters to narrow 
 
 **Query Parameters:**
 
-- `sport` (optional): Filter locations by sport type.
-- `country` (optional): Filter locations by country.
+- `sport` : Filter locations by sport type.
+- `country` : Filter locations by country.
 
 ### GET /location/details/:id
 
