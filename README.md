@@ -17,7 +17,7 @@ To start using the Sports Location Finder API, ensure you have the following pre
 
 ## Base URL
 
-The API is accessible at `[https://dzomxfjyq1.execute-api.us-east-1.amazonaws.com/dev-env/location](https://dzomxfjyq1.execute-api.us-east-1.amazonaws.com/dev-env/location?sport=cricket&country=india)`.
+The API is accessible at `https://dzomxfjyq1.execute-api.us-east-1.amazonaws.com/dev-env/location?sport=cricket&country=india`.
 
 ## Authentication
 
